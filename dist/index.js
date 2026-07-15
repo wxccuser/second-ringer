@@ -5,7 +5,7 @@
         <div class=${this.hideMe?"":"bump"}>
             <button style="float: right;" @click=${()=>this.hideMe=!this.hideMe}>Second Ringer</button>
             <div class=${"container"+(this.hideMe?" hidden":"")}>
-            <audio id="ring" src = "https://kevsimps.github.io/second-ringer/dist/ring.mp3" type="audio/mp3" controls loop></audio>
+            <audio id="ring" src = "https://github.com/wxccuser/second-ringer/dist/ring.mp3" type="audio/mp3" controls loop></audio>
             <!-- <audio id="ring" src = "http://localhost:4173/ring.mp3" controls loop></audio> -->
             <button @click=${()=>this.isActive=!this.isActive}>${this.isActive?"Enabled":"Disabled"}</button>
             <br>
