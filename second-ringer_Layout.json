@@ -1,6 +1,6 @@
 {
   "agent": {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "appTitle": "Webex Contact Center",
     "logo": "",
     "stopNavigateOnAcceptTask": false,
@@ -299,7 +299,7 @@
     }
   },
   "supervisor": {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "appTitle": "Webex Contact Center",
     "logo": "",
     "stopNavigateOnAcceptTask": false,
@@ -848,7 +848,7 @@
     }
   },
   "supervisorAgent": {
-    "version": "0.1.0",
+    "version": "0.1.1",
     "appTitle": "Webex Contact Center",
     "logo": "",
     "stopNavigateOnAcceptTask": false,
